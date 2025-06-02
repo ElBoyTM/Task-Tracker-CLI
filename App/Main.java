@@ -27,6 +27,7 @@ public class Main {
                     manager.deleteTask(Integer.parseInt(scanner.nextLine()));
                     break;
                 case "5":
+                    scanner.close();
                     System.exit(0);
             }
         }
