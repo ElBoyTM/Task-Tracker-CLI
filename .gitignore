@@ -1,0 +1,14 @@
+# Ignore Java class files
+*.class
+
+# Ignore build directories
+/bin/
+/build/
+/out/
+
+# Ignore IDE/project files
+*.iml
+.idea/
+*.log
+*.tmp
+.DS_Store 
